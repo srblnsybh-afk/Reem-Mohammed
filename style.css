@@ -1,0 +1,41 @@
+body {
+    background: #1E3A8A !important; /* أزرق غامق */
+    color: white !important;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #FBBF24 !important; /* أصفر */
+    padding: 20px;
+    text-align: center;
+}
+
+.logo {
+    color: #1E3A8A !important;
+    font-size: 30px;
+}
+
+.logo span {
+    color: red !important;
+}
+
+nav a {
+    color: #1E3A8A !important;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a.active {
+    color: red !important;
+}
+
+.btn {
+    background: #FBBF24 !important;
+    color: #1E3A8A !important;
+    padding: 15px 30px;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+}
